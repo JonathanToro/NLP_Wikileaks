@@ -48,7 +48,7 @@ for i in links_to_scrape:
         email_content = email_content.replace('  ', ' ')
         email_content = email_content.replace('  ',' ')
         row = (count, date, from_person, send, subject, email_content)
-        with open('45000-50887.csv', 'a') as f:
+        with open('1-50887.csv', 'a') as f:
             writer = csv.writer(f)
             writer.writerow(row)
         if count % 100 == 0:
