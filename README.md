@@ -7,3 +7,6 @@ The goal of this project is to use natural language processing techniques to ana
 2. Use LDA to topic model the emails
 3. Use gephi to create a network visualization of the campaign
 
+Please refer to my [blog][1] for a detailed explanation of my work.
+
+[1]:https://jonathantoro.github.io/NLP-Podesta-Emails/
